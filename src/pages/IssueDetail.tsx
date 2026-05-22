@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom';
-import { MapPin, ThumbsUp, MessageCircle, Clock, Share2, Flag, ChevronLeft, ShieldAlert, Scale, Trash2, TreePine, Building2, CircleDot, CheckCircle2, AlertTriangle } from 'lucide-react';
+import { MapPin, ThumbsUp, MessageCircle, Clock, Share2, Flag, ChevronLeft, CheckCircle2, AlertTriangle } from 'lucide-react';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 import StatusBeacon from '@/components/StatusBeacon';
